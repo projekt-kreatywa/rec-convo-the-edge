@@ -1,0 +1,99 @@
+{
+	"name": "accidental-comp-003.ai",
+	"width": 1200,
+	"height": 1197,
+	"layers": [
+		{
+			"x": "1.00",
+			"y": "24.90",
+			"r": "1201.00",
+			"b": "1654.28",
+			"width": "1200.00",
+			"height": "1629.38",
+			"layername": "Layer 1 copy",
+			"name": "Layer-1-copy",
+			"type": "div",
+			"visible": true,
+			"items": [
+				{
+					"x": 734.84,
+					"y": 1401.56,
+					"r": "963.66",
+					"b": "1654.28",
+					"width": "227.83",
+					"height": "227.82",
+					"layername": "edgy.svg",
+					"name": "edgy",
+					"type": "svg",
+					"filename": "edgy.svg",
+					"visible": true
+				},
+				{
+					"x": 302.07,
+					"y": 0,
+					"r": "886.44",
+					"b": "469.31",
+					"width": "583.37",
+					"height": "444.41",
+					"layername": "if-i-could.svg",
+					"name": "if-i-could",
+					"type": "svg",
+					"filename": "if-i-could.svg",
+					"visible": true
+				},
+				{
+					"x": 174.95,
+					"y": 432.65,
+					"r": "926.01",
+					"b": "1058.52",
+					"width": "750.05",
+					"height": "600.96",
+					"layername": "deckard.svg",
+					"name": "deckard",
+					"type": "svg",
+					"filename": "deckard.svg",
+					"visible": true
+				},
+				{
+					"x": 761.54,
+					"y": 432.69,
+					"r": "1201.00",
+					"b": "1057.46",
+					"width": "438.46",
+					"height": "599.88",
+					"layername": "back-r.svg",
+					"name": "back-r",
+					"type": "svg",
+					"filename": "back-r.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 433.61,
+					"r": "605.71",
+					"b": "1059.25",
+					"width": "604.71",
+					"height": "600.74",
+					"layername": "back-l.svg",
+					"name": "back-l",
+					"type": "svg",
+					"filename": "back-l.svg",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 1025.83,
+					"r": "1201.00",
+					"b": "1197.05",
+					"width": "1200.00",
+					"height": "146.31",
+					"layername": "panel.svg",
+					"name": "panel",
+					"type": "svg",
+					"filename": "panel.svg",
+					"visible": true
+				}
+			]
+		}
+	]
+}
