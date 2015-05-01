@@ -1,4 +1,9 @@
-@import url(http://fonts.googleapis.com/css?family=Bangers);
+/* @import url(fonts/Detroit3/stylesheet.css);
+
+@import url(http://fonts.googleapis.com/css?family=Bangers);*/
+
+@import url(/css/fonts.css);
+
 html {
 	overflow: hidden;
 }
@@ -23,7 +28,7 @@ a {
 .prx {
 	position: absolute;
 	color: #FFF;
-	font-family: 'Bangers', cursive;
+    font-family: 'Conv_sector_017';
 	font-size:1.5em;
 	overflow: hidden;
 }
