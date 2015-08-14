@@ -14,4 +14,8 @@ all that was needed to make it into an awesome digital enchantment was drumms an
 
 and that's all folks.
 
-ohh the font is
+the font used:
+
+[![](http://www.dafont.com/img/preview/s/e/sector_0170.png)](http://www.dafont.com/sector-017.font)
+
+by Michał Nowak [Neoqueto](http://www.dafont.com/profile.php?user=294198)
